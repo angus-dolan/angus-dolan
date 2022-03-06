@@ -10,7 +10,6 @@
 <p>I'm Angus, Full-Stack developer and Software Engineering student who also does UI/UX.</p>
 
 - 💬 How to reach me? angus@angusdolan.com or <a href="https://www.linkedin.com/in/angusdolan/">LinkedIn</a>
-- 📄 Find out about my past experiences, <a>check out my CV</a> or <a>previous startup case study</a>.
 
 ### Currently Learning
 - Vue.js 3
