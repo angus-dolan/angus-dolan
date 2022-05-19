@@ -7,7 +7,7 @@
 <br>
 
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px">
-<p>I'm Angus, Full-Stack developer and Software Engineering student who also does UI/UX.</p>
+<p>I'm Angus, Full-Stack developer and Software Engineering student.</p>
 
 - 💬 How to reach me? angus@angusdolan.com or <a href="https://www.linkedin.com/in/angusdolan/">LinkedIn</a>
 
