@@ -7,7 +7,7 @@
 <br>
 
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px">
-<p>I'm Angus, aSoftware Engineering student who also enjoys UI/UX.</p>
+<p>I'm Angus, a Software Engineering student who also enjoys UI/UX.</p>
 
 - 💬 How to reach me? angus@angusdolan.com or <a href="https://www.linkedin.com/in/angusdolan/">LinkedIn</a>
 
